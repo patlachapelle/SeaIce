@@ -1,7 +1,0 @@
-numpy
-pandas
-cartopy
-netCDF4
-matplotlib
-imageio
-os
