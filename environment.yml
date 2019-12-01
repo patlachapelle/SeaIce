@@ -8,3 +8,4 @@ dependencies:
   - matplotlib
   - netCDF4
   - imageio
+  - xarray
